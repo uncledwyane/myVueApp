@@ -14,6 +14,21 @@
 + VueRouter
 + Vant-UI
 
+运行：
+```shell
+npm intall
+```
+
+打包：
+```
+npm run build
+```
+
+运行：
+```
+npm run dev
+```
+
 项目截图：
 <div align='center'>
   <img src='https://raw.githubusercontent.com/uncledwyane/imageBed/master/img/20200617220604.png'/>
